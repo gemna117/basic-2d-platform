@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\SimplePlatformerController.cs" />
+    <Compile Include="Assets\Scripts\SpawnMonitor.cs" />
     <Reference Include="Unity.PackageManagerUI.Editor">
       <HintPath>C:/Users/penve/OneDrive/Documents/GitHub/basic-2d-platform/basic 2d platform/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
