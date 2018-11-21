@@ -62,8 +62,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Coin.cs" />
+    <Compile Include="Assets\Scripts\DeathTrigger.cs" />
     <Compile Include="Assets\Scripts\PlatformerFall.cs" />
     <Compile Include="Assets\Scripts\SimplePlatformerController.cs" />
+    <Compile Include="Assets\Scripts\SpawnCoins.cs" />
     <Compile Include="Assets\Scripts\SpawnMonitor.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/penve/OneDrive/Documents/GitHub/basic-2d-platform/basic 2d platform/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
