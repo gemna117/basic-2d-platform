@@ -641,7 +641,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: d2aab451-d1fa-4980-930d-573192f8edbf
-  projectName: 
+  projectName: basic 2d platform
   organizationId: gemna117
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
